@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_7dc32089",
+        "filename": "Client/Client.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1004743
+      },
+      "writtenOn": "2015-04-29T15:37:29Z",
+      "side": 1,
+      "message": "Change to market for better readability",
+      "range": {
+        "startLine": 19,
+        "startChar": 9,
+        "endLine": 19,
+        "endChar": 11
+      },
+      "revId": "4a5d9dcec65c42b67f4fa6d20799304a7db4d0ae",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_5dc904ab",
+        "filename": "Client/Client.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1004743
+      },
+      "writtenOn": "2015-04-29T15:37:29Z",
+      "side": 1,
+      "message": "Traders need to be more easily distinguished. It would be better to name trader1 Neda.",
+      "range": {
+        "startLine": 26,
+        "startChar": 9,
+        "endLine": 26,
+        "endChar": 16
+      },
+      "revId": "4a5d9dcec65c42b67f4fa6d20799304a7db4d0ae",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
