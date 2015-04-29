@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_ddde8f6c",
+        "filename": "market/MarketHistory.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1004832
+      },
+      "writtenOn": "2015-04-29T14:48:15Z",
+      "side": 1,
+      "message": "Variable name should be more descriptive.",
+      "range": {
+        "startLine": 15,
+        "startChar": 8,
+        "endLine": 15,
+        "endChar": 9
+      },
+      "revId": "330ed9b288d6c4ba2123729a91a7769404595ae2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
