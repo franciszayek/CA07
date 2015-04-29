@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_7d7f9b66",
+        "filename": "trader/Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1004832
+      },
+      "writtenOn": "2015-04-29T14:47:27Z",
+      "side": 1,
+      "message": "These comments are unnecessary.",
+      "range": {
+        "startLine": 16,
+        "startChar": 0,
+        "endLine": 23,
+        "endChar": 31
+      },
+      "revId": "0a8fbe58343f512c655356c13ac25b9811f94e7b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
