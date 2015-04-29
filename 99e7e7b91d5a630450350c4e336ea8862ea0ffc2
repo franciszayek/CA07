@@ -25,6 +25,23 @@
     },
     {
       "key": {
+        "uuid": "1a106d94_7d3e7bdb",
+        "filename": "order/OrderBook",
+        "patchSetId": 1
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 1004799
+      },
+      "writtenOn": "2015-04-29T15:52:06Z",
+      "side": 1,
+      "message": "break the method up into two or more parts if possible or comment through the method to explain what is happening.",
+      "revId": "99e7e7b91d5a630450350c4e336ea8862ea0ffc2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a106d94_1dbca705",
         "filename": "order/OrderBook",
         "patchSetId": 1
