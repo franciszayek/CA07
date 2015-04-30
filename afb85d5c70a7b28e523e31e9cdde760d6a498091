@@ -1,0 +1,142 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_12159f3f",
+        "filename": "trader/Trader.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1004776
+      },
+      "writtenOn": "2015-04-30T23:20:39Z",
+      "side": 1,
+      "message": "bad comment. remove it.",
+      "range": {
+        "startLine": 25,
+        "startChar": 41,
+        "endLine": 25,
+        "endChar": 52
+      },
+      "revId": "afb85d5c70a7b28e523e31e9cdde760d6a498091",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_d21e675e",
+        "filename": "trader/Trader.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 1004776
+      },
+      "writtenOn": "2015-04-30T23:20:39Z",
+      "side": 1,
+      "message": "Bad variable name! Variable names should be clear enough. Rename it.",
+      "range": {
+        "startLine": 46,
+        "startChar": 34,
+        "endLine": 46,
+        "endChar": 35
+      },
+      "revId": "afb85d5c70a7b28e523e31e9cdde760d6a498091",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_f211e352",
+        "filename": "trader/Trader.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 141,
+      "author": {
+        "id": 1004776
+      },
+      "writtenOn": "2015-04-30T23:20:39Z",
+      "side": 1,
+      "message": "long bad comments. remove it",
+      "range": {
+        "startLine": 134,
+        "startChar": 2,
+        "endLine": 141,
+        "endChar": 31
+      },
+      "revId": "afb85d5c70a7b28e523e31e9cdde760d6a498091",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_32189b74",
+        "filename": "trader/Trader.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 193,
+      "author": {
+        "id": 1004776
+      },
+      "writtenOn": "2015-04-30T23:20:39Z",
+      "side": 1,
+      "message": "Bad variable name! Variable names should be clear enough. Rename it.",
+      "range": {
+        "startLine": 193,
+        "startChar": 13,
+        "endLine": 193,
+        "endChar": 14
+      },
+      "revId": "afb85d5c70a7b28e523e31e9cdde760d6a498091",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_722df394",
+        "filename": "trader/Trader.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 194,
+      "author": {
+        "id": 1004776
+      },
+      "writtenOn": "2015-04-30T23:20:39Z",
+      "side": 1,
+      "message": "Delete it.",
+      "range": {
+        "startLine": 194,
+        "startChar": 3,
+        "endLine": 194,
+        "endChar": 32
+      },
+      "revId": "afb85d5c70a7b28e523e31e9cdde760d6a498091",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_92286f87",
+        "filename": "trader/Trader.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 199,
+      "author": {
+        "id": 1004776
+      },
+      "writtenOn": "2015-04-30T23:20:39Z",
+      "side": 1,
+      "message": "Bad variable name! Variable names should be clear enough. Rename it.",
+      "range": {
+        "startLine": 199,
+        "startChar": 13,
+        "endLine": 199,
+        "endChar": 14
+      },
+      "revId": "afb85d5c70a7b28e523e31e9cdde760d6a498091",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
