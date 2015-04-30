@@ -68,6 +68,52 @@
       "revId": "be8f63681e99df7bdb1306f89d4f3807229c6a68",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_be5d777b",
+        "filename": "order/OrderBook",
+        "patchSetId": 3
+      },
+      "lineNbr": 239,
+      "author": {
+        "id": 1004776
+      },
+      "writtenOn": "2015-04-30T23:08:58Z",
+      "side": 1,
+      "message": "Bad variable name! Variable names should be clear enough. Rename it.",
+      "range": {
+        "startLine": 239,
+        "startChar": 37,
+        "endLine": 239,
+        "endChar": 39
+      },
+      "revId": "be8f63681e99df7bdb1306f89d4f3807229c6a68",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_de58338c",
+        "filename": "order/OrderBook",
+        "patchSetId": 3
+      },
+      "lineNbr": 239,
+      "author": {
+        "id": 1004776
+      },
+      "writtenOn": "2015-04-30T23:08:58Z",
+      "side": 1,
+      "message": "Bad variable name! Variable names should be clear enough. Rename it.",
+      "range": {
+        "startLine": 239,
+        "startChar": 27,
+        "endLine": 239,
+        "endChar": 29
+      },
+      "revId": "be8f63681e99df7bdb1306f89d4f3807229c6a68",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
