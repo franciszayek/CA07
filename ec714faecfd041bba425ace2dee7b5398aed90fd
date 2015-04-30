@@ -1,0 +1,112 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_9284ef5e",
+        "filename": "Client/Client.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1004776
+      },
+      "writtenOn": "2015-04-30T23:23:54Z",
+      "side": 1,
+      "message": "Bad comment! Remove it.",
+      "revId": "ec714faecfd041bba425ace2dee7b5398aed90fd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_d27ae775",
+        "filename": "Client/Client.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1004776
+      },
+      "writtenOn": "2015-04-30T23:23:54Z",
+      "side": 1,
+      "message": "Bad comment! Remove it.",
+      "revId": "ec714faecfd041bba425ace2dee7b5398aed90fd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_b27f6b65",
+        "filename": "Client/Client.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 1004776
+      },
+      "writtenOn": "2015-04-30T23:23:54Z",
+      "side": 1,
+      "message": "Bad comment! Remove it.",
+      "range": {
+        "startLine": 54,
+        "startChar": 9,
+        "endLine": 54,
+        "endChar": 10
+      },
+      "revId": "ec714faecfd041bba425ace2dee7b5398aed90fd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_f294438c",
+        "filename": "Client/Client.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 1004776
+      },
+      "writtenOn": "2015-04-30T23:23:54Z",
+      "side": 1,
+      "message": "Bad comment! Remove it.",
+      "revId": "ec714faecfd041bba425ace2dee7b5398aed90fd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_528ef779",
+        "filename": "Client/Client.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 1004776
+      },
+      "writtenOn": "2015-04-30T23:23:54Z",
+      "side": 1,
+      "message": "Bad comment! Remove it.",
+      "revId": "ec714faecfd041bba425ace2dee7b5398aed90fd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_92eb4f12",
+        "filename": "Client/Client.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 1004776
+      },
+      "writtenOn": "2015-04-30T23:23:54Z",
+      "side": 1,
+      "message": "Bad comment! Remove it.",
+      "revId": "ec714faecfd041bba425ace2dee7b5398aed90fd",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
