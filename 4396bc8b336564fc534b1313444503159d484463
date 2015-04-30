@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_34bd35b8",
+        "filename": "Client/Client.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1004749
+      },
+      "writtenOn": "2015-04-30T06:36:02Z",
+      "side": 1,
+      "message": "The number of traders created are more than 10. The comment isnt consistent with the code.",
+      "revId": "4396bc8b336564fc534b1313444503159d484463",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
