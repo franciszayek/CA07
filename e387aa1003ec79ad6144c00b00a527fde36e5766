@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_d4cb0151",
+        "filename": "trader/Trader.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 123,
+      "author": {
+        "id": 1004749
+      },
+      "writtenOn": "2015-04-30T06:38:30Z",
+      "side": 1,
+      "message": "Can remove unused, commented out code",
+      "revId": "e387aa1003ec79ad6144c00b00a527fde36e5766",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
